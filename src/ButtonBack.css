@@ -1,0 +1,16 @@
+.ButtonBack__button {
+    text-align: center;
+    font: inherit;
+    border: 6px solid #a3d8d6;
+    padding: 13px 12px;
+    font-size: 15px;
+    box-shadow: 0 1px 1px #DDD;
+    width: 400px;
+    outline: none;
+    display: block;
+    margin: auto;
+    color: #7B8585;
+}
+.ButtonBack__button:hover {
+    background-color: #d8f2f1;
+}

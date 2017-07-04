@@ -1,0 +1,10 @@
+.Photos__div {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+}
+.Photos__img {
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+}
