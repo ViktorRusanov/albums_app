@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import fetchApiService from './fetchApiService';
+import fetchApiService from '../../api/fetchApiService';
 import './Photos.css';
 
 class Photos extends Component {

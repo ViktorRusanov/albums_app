@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import ListAlbums from './getAlbums';
-import Search from './Search';
-import Photos from './Photos';
-import ButtonBack from './ButtonBack';
-import fetchApiService from './fetchApiService';
+import Search from '../Search/Search';
+import Photos from '../Photo/Photos';
+import ButtonBack from '../ButtonBack/ButtonBack';
+import fetchApiService from '../../api/fetchApiService';
 import './Albums.css'
 
 const ALBUMS_ALL = 'albumsAll';
